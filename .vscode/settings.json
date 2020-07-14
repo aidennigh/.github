@@ -1,0 +1,23 @@
+{
+  "editor.formatOnSave": false,
+  "editor.autoClosingQuotes": "always",
+  "editor.autoClosingOvertype": "always",
+  "editor.wrappingIndent": "none",
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.rulers": []
+  },
+  "[json]": {
+    "editor.formatOnSave": true
+  },
+  "spellright.language": [
+    "en_GB"
+  ],
+  "spellright.documentTypes": [
+    "latex",
+    "plaintext"
+  ]
+}
